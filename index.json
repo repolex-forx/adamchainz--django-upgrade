@@ -1,0 +1,11 @@
+{
+  "org": "adamchainz",
+  "repo": "django-upgrade",
+  "versions": [
+    {
+      "commit": "4077de1d0fafc80ee7c74a26a1147ca8fc2e95b1",
+      "tag": "",
+      "parsed_at": "2026-10-15T08:59:17.443955+00:00"
+    }
+  ]
+}
