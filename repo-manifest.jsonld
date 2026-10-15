@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/adamchainz/django-upgrade/commit/4077de1d0fafc80ee7c74a26a1147ca8fc2e95b1",
       "git:hexsha": "4077de1d0fafc80ee7c74a26a1147ca8fc2e95b1",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T08:59:17.443278+00:00"
     },
     {
       "@id": "https://repolex.ai/r/adamchainz/django-upgrade/commit/d7a5963dc156db50307fd3c813e9d00b7f8a68f6",
